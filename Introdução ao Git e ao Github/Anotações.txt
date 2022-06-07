@@ -1,0 +1,8 @@
+Ola me chamo Danilo tenho 23 anos, atualmente estou curso um Bootcamp da Dio.
+ -Modulo 1 finalizado
+ -Modulo 2 finalizado
+ -Modulo 3 em andamento...
+
+  -Informações sobre o Git
+links para download do Git:https://git-scm.com/
+O git bash é um terminal extendído para otimizar o uso do Git
